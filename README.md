@@ -9,7 +9,7 @@ This program simulates Connect Four, which is a two-player board game.
 * The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. 
 
 ## Technologies
-In this program I used `NumPy` to create the board.
+I used `NumPy` to create the board.
 
 ## Execution
 Run `Connect4.py`
