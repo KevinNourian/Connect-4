@@ -1,4 +1,4 @@
-# Connect4
+# Connect 4
 
 ## Description
 This program simulates Connect Four, which is a two-player board game.
